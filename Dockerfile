@@ -1,4 +1,4 @@
-FROM ubuntu:trusty
+FROM ubuntu:utopic
 MAINTAINER FENG, HONGLIN <hfeng@tutum.co>
 
 #Install PostgreSQL-9.4
